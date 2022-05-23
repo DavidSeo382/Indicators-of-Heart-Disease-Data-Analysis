@@ -1,1 +1,14 @@
-# Indicators-of-Heart-Disease-Data-Analysis
+# Indicators of Heart Disease Data Analysis
+
+## Overview
+Conducted data analysis on dataset from Kaggle which displays some key indicators of heart disease. Utilized some statistical analysis such as a permutation test to see if a column was correlated with heart disease. Also created pivot tables to understand the likelihood of someone contracting heart disease if they experienced certain conditions. Created many different visualizations such as horizontal bar charts and scatter plots to display analysis. Afterwards, I created a presentation to discuss my findings and provided possible heart disease prevention tactics.
+
+# Tools Used:
+* Python
+* Jupyter Notebook
+* Microsoft Powerpoint
+
+# Libraries Imported 
+* Data science package
+* Numpy
+* Matplotlib
