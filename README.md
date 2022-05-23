@@ -12,3 +12,8 @@ Conducted data analysis on dataset from Kaggle which displays some key indicator
 * Data science package
 * Numpy
 * Matplotlib
+
+# Files Included (In Order)
+* Python Jupyter Notebook
+* PowerPoint Presentation
+* CSV that contains the raw data
