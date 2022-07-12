@@ -5,13 +5,9 @@ Conducted data analysis on dataset from Kaggle which displays some key indicator
 
 ## Tools / Languages Used
 * Python
+  * Libraries: Datascience package, numpy, matplotlib
 * Jupyter Notebook
 * Microsoft Powerpoint
-
-## Libraries Imported 
-* Data science package
-* Numpy
-* Matplotlib
 
 ## Files Included (In Order)
 * Python Jupyter Notebook
